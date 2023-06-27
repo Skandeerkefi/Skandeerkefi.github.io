@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fc1cb2a.css",
+    "main.js": "/static/js/main.c1bf332a.js",
+    "static/media/work1.png": "/static/media/work1.421d195bbce13e15c9f2.png",
+    "static/media/work3.png": "/static/media/work3.89e35e2c88a6b978f622.png",
+    "static/media/work2.png": "/static/media/work2.9f4e6faf916791926ae5.png",
+    "static/media/skander.png": "/static/media/skander.b80f7e1723d3594ffad4.png",
+    "static/media/Skander_cv.pdf": "/static/media/Skander_cv.fcccbf882e840828d121.pdf",
+    "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/index.html",
+    "main.5fc1cb2a.css.map": "/static/css/main.5fc1cb2a.css.map",
+    "main.c1bf332a.js.map": "/static/js/main.c1bf332a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fc1cb2a.css",
+    "static/js/main.c1bf332a.js"
+  ]
+}
